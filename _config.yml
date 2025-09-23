@@ -1,6 +1,9 @@
 title: Adam Vitaris
-description: Jegyzetek és demók
+description: Cybersecurity projects
 remote_theme: jekyll/minima@v2.5.1
+header_pages:
+  -about.md
+  -projects.md
 
 plugins:
   - jekyll-remote-theme
