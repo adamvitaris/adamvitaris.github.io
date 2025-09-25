@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Homelab Server"
+date:   2025-09-25 18:56:46 +0200
+categories: homelab
+---
+
+## Homelab
+1. **The hardware** My old pc
